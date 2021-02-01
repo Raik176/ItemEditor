@@ -1,0 +1,9 @@
+name: itemedit
+version: 1.4
+main: me.Raik167.Plugin.Main
+api-version: 1.16
+
+commands:
+   itemeditor:
+      aliases: ie
+       
